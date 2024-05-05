@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height:600px ;
+    box-sizing: border-box;
+align-items: center;
+
+}
+button{
+    background-color: #556cd5;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    width: 20%;
+}
+form{
+   display: flex;
+   flex-direction: column;
+   justify-content: center; 
+}
+.image{
+    width: 500px;
+    height: 500px;
+}
